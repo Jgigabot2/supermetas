@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/supermetas/static/css/main.beca36cc.css",
+    "main.js": "/supermetas/static/js/main.796eeed4.js",
+    "index.html": "/supermetas/index.html",
+    "static/media/delete.svg": "/supermetas/static/media/delete.7018c4465589031bd51c8efbe21df9ca.svg",
+    "static/media/check.svg": "/supermetas/static/media/check.e9a948bba52a34123d2ed7aeda0ea495.svg",
+    "main.beca36cc.css.map": "/supermetas/static/css/main.beca36cc.css.map",
+    "main.796eeed4.js.map": "/supermetas/static/js/main.796eeed4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.beca36cc.css",
+    "static/js/main.796eeed4.js"
+  ]
+}
